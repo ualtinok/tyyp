@@ -23,7 +23,7 @@ TYYP is an application level networking protocol for government controlled infor
 To enable this technology, follow the steps:
 
 * Create and sustain a dictatorial government or get in high power to make influence on legislative institutions. The separation of powers should not be in the business anymore to make sure jurisdiction can't get against of the deployment and execution of this technology. Read recent history of the Middle East  for influence and success stories in this area.
-* Pass certain acts to force ISPs to discontinue support for HTTP/HTTPs. Deactivate provider licenses if they disagree. Make them forward all HTTP/HTTPs requests to TYYP.
+* Pass certain acts to force ISPs to discontinue support for HTTP/HTTPS. Deactivate provider licenses if they disagree. Make them forward all HTTP/HTTPS requests to TYYP.
 * Use child porn or safe browsing needs as excuses. Know the point of failures of your society. If you're in Middle East, the first example may not work.
 
 ## Architecture
@@ -37,7 +37,7 @@ To enable this technology, follow the steps:
 ~~~
 1. Host A makes a TYYP request, request headers and body are parsed by the ISP and logged before any action is taken.
 1. ISP resolves the IP address of the destination host. It's often asked whether there aren't any design flaws since we address no DNS issues. The DNS is not required for this system to work, but we allow clients to make DNS requests not the break the existing software, such as legacy browsers.
-1. ISP decides whether the end destination is allowed to be visited or not. If it's a yes, we authenticate the user automatically (if required) and make an identical HTTP(s) request to Host B.
+1. ISP decides whether the end destination is allowed to be visited or not. If it's a yes, we authenticate the user automatically (if required) and make an identical HTTP(S) request to Host B.
 1. Host B responses.
 1. ISP receives the packet, parses it, logs the headers and the body, and puts an entry to the user's scorecard according to the destination resource's content rating.
 1. The response is returned to the source as a TYYP response.
