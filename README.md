@@ -41,3 +41,12 @@ To enable this technology, follow the steps:
 1. Host B responses.
 1. ISP receives the packet, parses it, logs the headers and the body, and puts an entry to the user's scorecard according to the destination resource's content rating.
 1. The response is returned to the source as a TYYP response.
+
+
+## List of Status Codes
+
+* __200__: HALAL
+* __403__: HARAM
+* __418__: I'm the tayyip
+* __500__: MEKRUH
+* __502__: ARAF
