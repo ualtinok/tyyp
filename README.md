@@ -2,13 +2,13 @@
 
 ![A demonstrator shows love and support for TYYP during one of the recent protests in Istanbul](http://i.imgur.com/E38iED0.jpg) ![Analytics](https://ga-beacon.appspot.com/UA-46881978-1/tyyp?pixel) ![TYYP in the making...](http://i.imgur.com/vN6U1MG.jpg)
 
-TYYP is an application level networking protocol for government controlled information systems, named after the notable 21st century villian Recep Tayyip Erdogan. TYYP was not started or is being coordinated by an open standards concorcium, because openness and freedom are oxymorons of the dictatorial values we commonly share and some of our design goals.
+TYYP is an application level networking protocol for government controlled information systems, named after the notable 21st century villain Recep Tayyip Erdogan. TYYP was not started or is being coordinated by an open standards consorcium, because openness and freedom are oxymorons of the dictatorial values we commonly share and some of our design goals.
 
 ## Features and design goals
 
 * Acts as a proxy between users and HTTP/HTTPs resources.
 * Removes the bad side effects of HTTPs.
-* Removes anonymity permanently. You can match any request with a subscriber. Good news is that your subsribers don't need to remember passwords anymore, your ISPs can automatically log your users into any website.
+* Removes anonymity permanently. You can match any request with a subscriber. Good news is that your subscribers don't need to remember passwords anymore, your ISPs can automatically log your users into any website.
 * Provides full functional parity with HTTP/HTTPs on the client level. It's perfectly backwards compatible, browsers don't need to support TYYP. Your users can keep continue to use fully open sourced browsers -- which is also a good selling point.
 * All requests are logged and persisted at least for 2 years, you don't need to be in a hurry investigate the dirty laundry of your subscribers.
 * Makes it possible to censor or block a certain path under a domain. It is such a huge improvement over blocking the entire host or the entire IP block. DNS block is so 2000s...
@@ -22,7 +22,7 @@ TYYP is an application level networking protocol for government controlled infor
 
 To enable this technology, follow the steps:
 
-* Create and sustain a dictatorial government or get in high power to make influence on legislative institutions. The seperation of powers should not be in the business anymore to make sure jurisdiction can't get against of the deployment and execution of this technology. Read recent history of the Middle East  for influnece and success stories in this area.
+* Create and sustain a dictatorial government or get in high power to make influence on legislative institutions. The separation of powers should not be in the business anymore to make sure jurisdiction can't get against of the deployment and execution of this technology. Read recent history of the Middle East  for influence and success stories in this area.
 * Pass certain acts to force ISPs to discontinue support for HTTP/HTTPs. Deactivate provider licenses if they disagree. Make them forward all HTTP/HTTPs requests to TYYP.
 * Use child porn or safe browsing needs as excuses. Know the point of failures of your society. If you're in Middle East, the first example may not work.
 
