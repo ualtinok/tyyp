@@ -46,6 +46,7 @@ To enable this technology, follow the steps:
 ## List of Status Codes
 
 * __200__: HALAL
+* __400__: MAKRUH
 * __403__: HARAM
 * __418__: I'm the tayyip
 * __500__: MEKRUH
