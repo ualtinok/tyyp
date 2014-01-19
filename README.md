@@ -28,12 +28,17 @@ To enable this technology, follow the steps:
 
 ## Network flow
 ~~~
-+--------+      +----------+      +-------+
-| Host A | ---- | Router A | ---- |  ISP  | -- central pipe to the Internet -+|
-+--------+      +----------+      +-------+                                   |
-                                       +----------+       +-----------+       |
-                                       |  Host B  | ----- |  Router B | ------+
-                                       +----------+       +-----------+
+
+ +----------+           +---------------+          +-----------+
+ |  Host A  |---------> |   Router A    |- TYYP -> |  Tier 1   | Proxification
+ +----------+           +---------------+          | Internet  | HTTP/S multiplexing
+    (src)                                          | Backbone  | Logging, etc.
+                                                   +-----+-----+
+    (dst)                                            HTTP/HTTPS
+ +----------+           +---------------+                |
+ |  Host B  | <---------|   Router B    | <--------------+
+ +----------+           +---------------+      Central pipe to
+                                               the Internet.
 ~~~
 1. Host A makes a TYYP request, request headers and body are parsed by the ISP and logged before any action is taken.
 1. ISP resolves the IP address of the destination host. It's often asked whether there aren't any design flaws since we address no DNS issues. The DNS is not required for this system to work, but we allow clients to make DNS requests not the break the existing software, such as legacy browsers.
