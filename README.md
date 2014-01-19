@@ -49,5 +49,4 @@ To enable this technology, follow the steps:
 * __400__: MAKRUH
 * __403__: HARAM
 * __418__: I'm the tayyip
-* __500__: MEKRUH
 * __502__: ARAF
