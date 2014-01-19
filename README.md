@@ -26,7 +26,7 @@ To enable this technology, follow the steps:
 * Pass certain acts to force ISPs to discontinue support for HTTP/HTTPS. Deactivate provider licenses if they disagree. Make them forward all HTTP/HTTPS requests to TYYP.
 * Use child porn or safe browsing needs as excuses. Know the point of failures of your society. If you're in Middle East, the first example may not work.
 
-## Architecture
+## Network flow
 ~~~
 +--------+      +----------+      +-------+
 | Host A | ---- | Router A | ---- |  ISP  | -- central pipe to the Internet -+|
