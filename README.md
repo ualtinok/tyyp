@@ -43,7 +43,7 @@ To enable this technology, follow the steps:
 1. The response is returned to the source as a TYYP response.
 
 
-## List of Status Codes
+## Status codes
 
 * __200__: HALAL
 * __400__: MAKRUH
