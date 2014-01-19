@@ -28,7 +28,6 @@ To enable this technology, follow the steps:
 
 ## Network flow
 ~~~
-
  +----------+           +---------------+          +-----------+
  |  Host A  |---------> |   Router A    |- TYYP -> |  Tier 1   | Proxification
  +----------+           +---------------+          | Internet  | HTTP/S multiplexing
