@@ -51,9 +51,9 @@ To enable this technology, follow the steps:
 * __200__: HALAL
 * __400__: MAKRUH
 * __403__: HARAM
-* __407__: FATWA AUTHORIZATION REQUIRED
-* __418__: I'm the tayyip
-* __500__: YOUR FAULT
+* __407__: FATWA_AUTHORIZATION_REQUIRED
+* __418__: IM_THE_TAYYIP
+* __500__: YOUR_FAULT
 * __502__: ARAF
 
 ## License
