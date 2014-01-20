@@ -2,7 +2,7 @@
 
 ![A demonstrator shows love and support for TYYP during one of the recent protests in Istanbul](http://i.imgur.com/E38iED0.jpg) ![Analytics](https://ga-beacon.appspot.com/UA-46881978-1/tyyp?pixel) ![TYYP in the making...](http://i.imgur.com/vN6U1MG.jpg)
 
-TYYP is an application level networking protocol for government controlled information systems, named after the notable 21st century villain Recep Tayyip Erdogan. TYYP was not started or is being coordinated by an open standards consorcium, because openness and freedom are oxymorons of the dictatorial values we commonly share and some of our design goals.
+TYYP is an application level networking protocol for government controlled information systems, named after the notable 21st century villain Recep Tayyip Erdogan. TYYP was not started or is being coordinated by an open standards consortium, because openness and freedom are oxymorons of the dictatorial values we commonly share and some of our design goals.
 
 ## Features and design goals
 
