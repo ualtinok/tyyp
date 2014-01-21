@@ -52,7 +52,7 @@ To enable this technology, follow the steps:
 * __400__: MAKRUH
 * __403__: HARAM
 * __407__: FATWA_AUTHORIZATION_REQUIRED
-* __410__: ONE_MINUTE
+* __410__: DAVOS
 * __418__: IM_THE_TAYYIP
 * __500__: YOUR_FAULT
 * __502__: ARAF
