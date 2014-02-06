@@ -51,6 +51,7 @@ To enable this technology, follow the steps:
 * __200__: HALAL
 * __400__: MAKRUH
 * __403__: HARAM
+* __404__: GOD_KNOWS_WHERE
 * __407__: FATWA_AUTHORIZATION_REQUIRED
 * __410__: DAVOS
 * __418__: IM_THE_TAYYIP
